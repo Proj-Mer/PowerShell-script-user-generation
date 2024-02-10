@@ -1,6 +1,3 @@
-# PowerShell-script-user-generation
-
-
 $PASSWORD_FOR_USERS   = "Password1"
 $USER_FIRST_LAST_LIST = Get-Content .\names.txt
 
